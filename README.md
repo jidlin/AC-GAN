@@ -17,7 +17,7 @@ python train.py \
 
 ## Examples
 ![samples]
-(samples/sampled_images_600.jpg)
+(samples/sampled_images_680.jpg)
 
 ![samples]
-(samples/sampled_images_650.jpg)
+(samples/sampled_images_690.jpg)
